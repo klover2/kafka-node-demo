@@ -1,0 +1,26 @@
+{
+  "name": "kafka-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "usersys": "app.js"
+  },
+  "dependencies": {
+    "eslint-config-egg": "^7.4.1",
+    "ioredis": "^4.14.1",
+    "kafka-node": "^5.0.0",
+    "node-etcd": "^7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
